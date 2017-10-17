@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LWawaTest_Example' do
+  pod 'LWawaTest', :path => '../'
+
+  target 'LWawaTest_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
