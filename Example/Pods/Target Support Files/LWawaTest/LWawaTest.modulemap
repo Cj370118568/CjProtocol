@@ -1,0 +1,6 @@
+framework module LWawaTest {
+  umbrella header "LWawaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LWawaTest",
+  "version": "0.1.0",
+  "summary": "A short description of LWawaTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Cj370118568/LWawaTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cj370118568": "370118568@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Cj370118568/LWawaTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWawaTest/Classes/**/*"
+}
