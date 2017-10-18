@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LWawaTest
 
 [![CI Status](http://img.shields.io/travis/Cj370118568/LWawaTest.svg?style=flat)](https://travis-ci.org/Cj370118568/LWawaTest)
@@ -27,3 +28,7 @@ Cj370118568, 370118568@qq.com
 ## License
 
 LWawaTest is available under the MIT license. See the LICENSE file for more info.
+=======
+# CjProtocol
+一些项目上用到的protocol
+>>>>>>> b3c7d68ab5d6454fc7dc2dd86dc9143777d87498
